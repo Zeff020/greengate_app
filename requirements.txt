@@ -2,6 +2,7 @@ certifi==2020.12.5
 click
 dominate==2.4.0
 Flask
+gunicorn
 Flask-Bootstrap==3.3.7.1
 itsdangerous
 Jinja2
